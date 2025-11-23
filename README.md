@@ -117,6 +117,4 @@ Bu əmr `polls/tests.py` faylındakı bütün testləri işə salacaq və nətic
 
 - **Səsvermə:** `http://127.0.0.1:8000/polls/` ünvanında aktiv sualları görə və səs verə bilərsiniz.
 
-## Müəllif
 
-Bu layihə **Manus AI** tərəfindən hazırlanmışdır.
