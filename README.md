@@ -116,5 +116,3 @@ Bu əmr `polls/tests.py` faylındakı bütün testləri işə salacaq və nətic
   Daha sonra `http://127.0.0.1:8000/admin/` ünvanına daxil olaraq suallar yarada bilərsiniz.
 
 - **Səsvermə:** `http://127.0.0.1:8000/polls/` ünvanında aktiv sualları görə və səs verə bilərsiniz.
-
-
